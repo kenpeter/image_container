@@ -1,3 +1,7 @@
+Reading this doc
+https://hackernoon.com/how-to-structure-your-react-app-98c48e102aad
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
